@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Css/Css.iml" filepath="$PROJECT_DIR$/Css/Css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Html/Html.iml" filepath="$PROJECT_DIR$/Html/Html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Php/Php.iml" filepath="$PROJECT_DIR$/Php/Php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Progetto.iml" filepath="$PROJECT_DIR$/Progetto.iml" />
+    </modules>
+  </component>
+</project>
